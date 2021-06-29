@@ -1,0 +1,34 @@
+[
+	{
+		"pers_firstname": "Max",
+		"pers_lastname": "Mustermann",
+		"pers_is_active":  true,
+		"pers_username": "mmax",
+		"pers_password": "123456789",
+		"pers_addresses": [
+			{
+				"address_street_name": "Teststr",
+				"address_street_number": "1",
+				"address_zipcode": "12345",
+				"address_city": "Teststadt",
+				"address_country": "Testland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "mmax@aufzugwaerter.de",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": ""
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "123456799",
+				"phone_type": "mobile"
+			}
+		],
+		"pers_scope": "manager"
+	}
+]
